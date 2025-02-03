@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\Desktop\\PROJELER\\optikkkkk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51BC8A5F-A816-49EF-9782-122906458273}|optikkkkk\\optikkkkk.csproj|C:\\Users\\yusuf\\Desktop\\PROJELER\\optikkkkk\\optikkkkk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BC8A5F-A816-49EF-9782-122906458273}|optikkkkk\\optikkkkk.csproj|solutionrelative:optikkkkk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BC8A5F-A816-49EF-9782-122906458273}|optikkkkk\\optikkkkk.csproj|c:\\users\\yusuf\\desktop\\projeler\\optikkkkk\\optikkkkk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51BC8A5F-A816-49EF-9782-122906458273}|optikkkkk\\optikkkkk.csproj|solutionrelative:optikkkkk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yusuf\\Desktop\\PROJELER\\optikkkkk\\optikkkkk\\Form1.cs",
+              "RelativeDocumentMoniker": "optikkkkk\\Form1.cs",
+              "ToolTip": "C:\\Users\\yusuf\\Desktop\\PROJELER\\optikkkkk\\optikkkkk\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "optikkkkk\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:51:35.925Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\Desktop\\PROJELER\\optikkkkk\\optikkkkk\\Form1.cs",
+              "RelativeDocumentMoniker": "optikkkkk\\Form1.cs",
+              "ToolTip": "C:\\Users\\yusuf\\Desktop\\PROJELER\\optikkkkk\\optikkkkk\\Form1.cs",
+              "RelativeToolTip": "optikkkkk\\Form1.cs",
+              "ViewState": "AQIAAJsBAAAAAAAAAAAYwAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:57:18.589Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
